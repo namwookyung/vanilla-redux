@@ -14,9 +14,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "redux": "^4.2.0"
-  },
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
   },
@@ -28,5 +25,9 @@
     "url": "https://github.com/namwookyung/vanilla-redux/issues"
   },
   "homepage": "https://github.com/namwookyung/vanilla-redux#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "react-redux": "^8.0.2",
+    "redux": "^4.1.2"
+  }
 }
